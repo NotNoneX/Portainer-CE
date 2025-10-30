@@ -78,7 +78,7 @@ Portainer is licensed under the zlib license. See [LICENSE](./LICENSE) for refer
 # Apache [License](./LICENSE) 2.0
 
 # 赞助声明
-  本项目由 [ZMTO](www.zmto.com/) 【开源项目免费VPS计划】 提供算力支持
+  本项目由 [ZMTO](https://www.zmto.com/) 【开源项目免费VPS计划】 提供算力支持
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/eysp/portainer-ce.svg?variant=adaptive)](https://starchart.cc/eysp/portainer-ce)
